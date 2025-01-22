@@ -51,14 +51,9 @@ student/
 
 1. **Клонируйте проект:**
    ```bash
-   git clone <ссылка на репозиторий>
+   git clone https://github.com/Khabalov33/whitemark-animation
    ```
 2. **Установите зависимости:**
    Убедитесь, что у вас установлен компилятор SCSS (например, `npm install sass`).
 
-3. **Компиляция SCSS:**
-   Запустите компиляцию:
-   ```bash
-   sass student/scss/style.scss student/css/style.css
-   ```
 4. **Откройте файл:** `contacts.html` в браузере для просмотра страницы.
